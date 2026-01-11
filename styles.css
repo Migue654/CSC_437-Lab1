@@ -1,0 +1,17 @@
+h1 {
+    color: #6f1d1b;
+    font-family:  "Rubik Doodle Shadow", system-ui;
+    
+}
+body{
+    background-color: #aa998f;
+}
+a {
+    color: #723d46
+}
+p,li,dd{
+    color: #463f3a
+}
+dt,h2{
+    font-family: "Macondo", cursive;
+}
