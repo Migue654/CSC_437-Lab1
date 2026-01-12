@@ -15,3 +15,6 @@ p,li,dd{
 dt,h2{
     font-family: "Macondo", cursive;
 }
+div > p {
+    font-style: italic;
+}
