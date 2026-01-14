@@ -15,6 +15,63 @@ p,li,dd{
 dt,h2{
     font-family: "Macondo", cursive;
 }
+#navigation{
+    font-size: 20px;
+    margin-left: 40px;
+    
+}
+#connections{
+    background-color: #85756E;
+    width: 500px;
+    padding:10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+#coding{
+    background-color: #85756E;
+    width: 700px;
+    margin: 10px;
+    padding:10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+#aboutme{
+
+    background-color: #85756E;
+    width: 750px;
+    margin: 10px;
+    padding:10px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+}
+#image{
+    margin: 20px;
+}
+#main_title{
+    margin-left: 20px;
+}
+#img_description{
+    background-color: #5D675B;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 15px;
+    width: 700px;
+}
+#pic_title{
+    margin: 10px;
+}
+#description{
+    margin: 10px;
+    color: #55251D;
+    font-weight: bold;
+}
 div > p {
     font-style: italic;
+    font-weight: bold;
+    
+}
+.links a{
+    color: white;
 }
