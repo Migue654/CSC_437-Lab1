@@ -1,77 +1,76 @@
-h1 {
-    color: #6f1d1b;
-    font-family:  "Rubik Doodle Shadow", system-ui;
-    
+body {
+  background-color: #aa998f;
 }
-body{
-    background-color: #aa998f;
-}
-a {
-    color: #723d46
-}
-p,li,dd{
-    color: #463f3a
-}
-dt,h2{
-    font-family: "Macondo", cursive;
-}
-#navigation{
-    font-size: 20px;
-    margin-left: 40px;
-    
-}
-#connections{
-    background-color: #85756E;
-    width: 500px;
-    padding:10px;
-    margin: 10px;
-    border-radius: 10px;
-    border: 2px solid black;
-}
-#coding{
-    background-color: #85756E;
-    width: 700px;
-    margin: 10px;
-    padding:10px;
-    border-radius: 10px;
-    border: 2px solid black;
-}
-#aboutme{
 
-    background-color: #85756E;
-    width: 750px;
-    margin: 10px;
-    padding:10px;
-    border-radius: 10px;
-    border: 2px solid black;
-
+dt,h2 {
+  font-family: "Macondo", cursive;
 }
-#image{
-    margin: 20px;
+#navigation {
+  font-size: 1.5rem;
+  margin-left: 1.5rem;
 }
-#main_title{
-    margin-left: 20px;
+#connections {
+  background-color: #FEEBD7;
+  width: 30rem;
+  padding: 1em;
+  margin: 1em;
+  border-radius: 1em;
+  border: 0.2em solid black;
 }
-#img_description{
-    background-color: #5D675B;
-    border-radius: 10px;
-    border: 2px solid black;
-    margin: 15px;
-    width: 700px;
+#coding {
+  background-color: #FEEBD7;
+  width: 40em;
+  margin: 1em;
+  padding: 1em;
+  border-radius: 1em;
+  border: 0.2em solid black;
 }
-#pic_title{
-    margin: 10px;
+#aboutme {
+  background-color: #FEEBD7;
+  width: 50em;
+  margin: 1em;
+  padding: 1em;
+  border-radius: 1em;
+  border: 0.2em solid black;
 }
-#description{
-    margin: 10px;
-    color: #55251D;
-    font-weight: bold;
+#image {
+  margin: 0 1.5em 1.5em 1.5em;
+  height: 30em;
+  width: 22em;
 }
-div > p {
-    font-style: italic;
-    font-weight: bold;
-    
+#main_title {
+  font-family: "Rubik Doodle Shadow", system-ui;
+  color: beige;
+  background-color: #723d46;
+  padding: 0.5em;
+  font-size: 2.5em;
+  display: flex;
+  justify-content: center;
+}
+#img_description {
+  background-color: #ADADAD;
+  border-radius: 1em;
+  border: 0.1em solid black;
+  margin: 1em;
+  width: 75em;
+}
+#pic_title {
+  margin: 1em;
+}
+.subpage li,
+.subpage p,
+.subpage ul  {
+  margin: 1em;
+  color: #55251d;
+  font-size: 1em;
+  font-weight: bold;
+  font-style: italic;
+}
+.firstpage dd,p,li{ 
+    color: #03120E;
+    font-family: "Merriweather", serif;
+    font-size: 0.8em;
 }
 .links a{
-    color: white;
+  color: darkgreen;
 }
